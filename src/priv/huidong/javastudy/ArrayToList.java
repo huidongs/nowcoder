@@ -16,6 +16,7 @@ import java.util.stream.Stream;
  */
 public class ArrayToList {
     public static void main(String[] args) {
+        String sss = "1ww";
         //=========================================数组转list========================================
         String[] str = new String[]{"hello","world"};
         //方式一：使用for循环把数组元素加进list
